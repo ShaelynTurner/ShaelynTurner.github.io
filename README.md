@@ -1,5 +1,5 @@
 # CS499-Capstone
-This site was built using [GitHub Pages] (https://shaelynturner.github.io/).
+This site was built using [GitHub Pages](https://shaelynturner.github.io/).
 ## Table of Contents
   * Self-Assessment
   * Code Review
@@ -31,7 +31,7 @@ The third artifact is from CS-340 Client/Server Development. This assignment use
 
 
 ## Code Review
-The entire Code Review can be found here on [YouTube] (https://www.youtube.com/watch?v=RLlLaVLpjtw)
+The entire Code Review can be found here on [YouTube](https://www.youtube.com/watch?v=RLlLaVLpjtw)
 
 ## Milestone Two
 ### Briefly describe the artifact
