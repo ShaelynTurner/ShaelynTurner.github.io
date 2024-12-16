@@ -1,11 +1,11 @@
 # CS499-Capstone
 This site was built using [GitHub Pages](https://shaelynturner.github.io/).
 ## Table of Contents
-  * Self-Assessment(#self-assessment)
-  * Code Review
-  * Milestone Two
-  * Milestone Three
-  * Milestone Four
+  * [Self Assessment](#self-assessment)
+  * [Code Review](#code-reveiew)
+  * [Milestone Two](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Two)
+  * [Milestone Three](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Three)
+  * [Milestone Four](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Four)
 
 ## Self Assessment
 Throughout the time I have spent at SNHU there are many different skills that I have learned and developed that will be beneficial to me in my career. Some classes brought on many new challenges and experiences. This is included in my enhancements as one class was computer graphics, one was using MongoDB, and another was creating mobile applications. Throughout the enhancments and assignments I completed all five course outcomes. 
