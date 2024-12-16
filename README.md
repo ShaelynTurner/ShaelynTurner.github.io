@@ -1,7 +1,7 @@
 # CS499-Capstone
 This site was built using [GitHub Pages](https://shaelynturner.github.io/).
 ## Table of Contents
-  * Self-Assessment
+  * Self-Assessment(#self-assessment)
   * Code Review
   * Milestone Two
   * Milestone Three
