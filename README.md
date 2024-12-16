@@ -3,9 +3,9 @@ This site was built using [GitHub Pages](https://shaelynturner.github.io/).
 ## Table of Contents
   * [Self Assessment](#self-assessment)
   * [Code Review](#code-reveiew)
-  * [Milestone Two](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Two)
-  * [Milestone Three](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Three)
-  * [Milestone Four](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Four)
+  * [Milestone Two](#milestone-two)
+  * [Milestone Three](#milestone-three)
+  * [Milestone Four](#milestone-four)
 
 ## Self Assessment
 Throughout the time I have spent at SNHU there are many different skills that I have learned and developed that will be beneficial to me in my career. Some classes brought on many new challenges and experiences. This is included in my enhancements as one class was computer graphics, one was using MongoDB, and another was creating mobile applications. Throughout the enhancments and assignments I completed all five course outcomes. 
@@ -33,19 +33,19 @@ The third artifact is from CS-340 Client/Server Development. This assignment use
 ## Code Review
 The entire Code Review can be found here on [YouTube](https://www.youtube.com/watch?v=RLlLaVLpjtw)
 
-## Milestone Two
+## [Milestone Two](#(#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Two)
 ### Briefly describe the artifact
 The artifact I chose to use is an Inventory mobile application app. It was designed to allow users to keep track of items. The app could be used by a wide variety of users from a small business owner needing to keep track of their inventory or a collector that wants to have easy access to their inventory. This mobile application was created using Android Studio and was created in CS 360, a previous course I took at SNHU. 
 ### Enhancements and Course Outcomes
 Before the app did not work properly and had some errors due to it not being complete. Through the improvements there are no longer errors in the code and the app will launch as it is intended to. With the enhancements to the artifact, I did meet the intended course outcomes that I had planned.
 
-## Milestone Three
+## [Milestone Three](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Three)
 ### Briefly describe the artifact
 The artifact that I chose to use is an OpenGL assignment. This was created in a previous course that I took at SNHU which was CS-330. The project created a 3D pyramid by using six different triangles. These triangles were then programmed to come together from their vertices to create the pyramid. Each vertex has a different color that can be seen when the project is ran. 
 ### Enhancements and Course Outcomes
 The original assignment created a simple 3D pyramid with different colors on each vertex. The enhancements I added gave the ability to move around the puramid. This included rotating as well as zooming in and out. With the enhancements to the artifact, I did meet the intended course outcomes that I had planned. 
 
-## Milestone Four
+## [Milestone Four](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Four)
 ### Briefly describe the artifact
 The artifact that I chose for the database category is from CS-340 that I completed at SNHU. The assignment utilized CRUD (create, read, update, delete). This assignment was created for users to see different animals that are specialized in specific rescue categories. This ranged from water rescues, mountain and wilderness rescue, as well as disaster and individual tracking. The user would need to login and then a table would be displayed with all of the animals and their attributes.  
 ### Enhancements and Course Outcomes
