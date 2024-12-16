@@ -33,7 +33,7 @@ The third artifact is from CS-340 Client/Server Development. This assignment use
 ## Code Review
 The entire Code Review can be found here on [YouTube](https://www.youtube.com/watch?v=RLlLaVLpjtw)
 
-## [Milestone Two](#(#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Two)
+## [Milestone Two](#https://github.com/ShaelynTurner/ShaelynTurner.github.io/tree/main/Milestone%20Two)
 ### Briefly describe the artifact
 The artifact I chose to use is an Inventory mobile application app. It was designed to allow users to keep track of items. The app could be used by a wide variety of users from a small business owner needing to keep track of their inventory or a collector that wants to have easy access to their inventory. This mobile application was created using Android Studio and was created in CS 360, a previous course I took at SNHU. 
 ### Enhancements and Course Outcomes
